@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1488849338 source:c:\users\daniela\downloads\sortedhuffman-master\sortedhuffman-master\main.cpp
+	"Test.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<map>
+	<string>
+	<sstream>
+
+1488702079 c:\users\daniela\downloads\sortedhuffman-master\sortedhuffman-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+
+1488849338 source:c:\users\daniela\downloads\sortedhuffman-master\sortedhuffman-master\test.cpp
+	"Test.h"
+
